@@ -507,7 +507,7 @@
     <p>AdobePhotoshop、Adobelllustrator、CorelDRAW C1驾驶证</p>
 
     <!-- 页脚（可选） -->
-    <div class="footer-note">简历内容完全复刻自PDF文档</div>
+    <div class="footer-note">履历中有从业过公司的简要说明，所括所属行业、主营产品、企业规模人数等信息，不尽之处可电话联系我</div>
 
 </div>
 </body>
