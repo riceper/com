@@ -343,7 +343,7 @@
             <span class="company-name">CARVE 河南凯旺科技有限公司</span>
             <span>
                 <span class="company-title">人资服务中心总监</span>
-                <span class="company-time">2020/2- 2021/08股份|4000+人</span>
+                <span class="company-time">2020/2- 2021/08股份|5000+人</span>
             </span>
         </div>
         <div class="company-desc">
@@ -391,7 +391,7 @@
             <span class="company-name">PW鹏威集团（香港）有限公司</span>
             <span>
                 <span class="company-title">集团HRVP兼董助</span>
-                <span class="company-time">2010/4- 2013/8合资|20000+人</span>
+                <span class="company-time">2010/4- 2013/8合资|10000+人</span>
             </span>
         </div>
         <div class="company-desc">
@@ -420,7 +420,7 @@
             <span class="company-name">BYD比亚迪股份有限公司</span>
             <span>
                 <span class="company-title">招聘主管- 人事经理</span>
-                <span class="company-time">2007/3- 2010/3股份|5000+人</span>
+                <span class="company-time">2007/3- 2010/3股份|10000+人</span>
             </span>
         </div>
         <div class="company-desc">
@@ -455,7 +455,7 @@
             <span class="company-name">JQ河南金雀集团沈阳分公司</span>
             <span>
                 <span class="company-title">实习生-总务</span>
-                <span class="company-time">2002/7- 2002/12 国企|500+人</span>
+                <span class="company-time">2002/7- 2002/12 国企|1000+人</span>
             </span>
         </div>
         <div class="company-desc">
